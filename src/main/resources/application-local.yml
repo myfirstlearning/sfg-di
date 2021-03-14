@@ -1,0 +1,4 @@
+data:
+  username: YmlUserName
+  password: YmlPassword
+  jdbcurl: YmlUrl
